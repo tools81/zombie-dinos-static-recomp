@@ -1,0 +1,20 @@
+# made from the game disc: never commit
+/rom/
+/extracted/
+/gen/
+/test/insn_tests.c
+/test/alu_vectors.h
+*.state
+*.bin
+*.cue
+# build output
+/build/
+/dist/
+/run/
+/cmp/
+/saves/
+*.exe
+*.log
+*.bmp
+*.wav
+__pycache__/

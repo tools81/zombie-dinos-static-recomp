@@ -1,0 +1,120 @@
+{
+  "title": "Zombie Dinos from Planet Zeltoid",
+  "exe_name": "zombiedinos",
+  "modules": [
+    {
+      "file": "auto",
+      "base": "0x100000",
+      "extra_entries": [
+        "0x11c468",
+        "0x11c46a",
+        "0x11c982",
+        "0x11c9c0",
+        "0x11cdd6",
+        "0x11d272",
+        "0x11d330",
+        "0x11d45e",
+        "0x11d462",
+        "0x11b9aa",
+        "0x11bc44"
+      ],
+      "a5_table": "auto",
+      "label_ranges": [
+        [
+          "0x11cab2",
+          "0x11ccb2"
+        ],
+        [
+          "0x11ccb4",
+          "0x11cd34"
+        ],
+        [
+          "0x11d174",
+          "0x11d234"
+        ],
+        [
+          "0x11b9c4",
+          "0x11ba04"
+        ],
+        [
+          "0x11ba06",
+          "0x11ba2a"
+        ],
+        [
+          "0x11bcc4",
+          "0x11bd48"
+        ],
+        [
+          "0x11ba2c",
+          "0x11ba2c"
+        ],
+        [
+          "0x11ba4c",
+          "0x11ba4c"
+        ],
+        [
+          "0x11ba6c",
+          "0x11ba6c"
+        ],
+        [
+          "0x11ba8c",
+          "0x11ba8c"
+        ],
+        [
+          "0x11baac",
+          "0x11baac"
+        ],
+        [
+          "0x11bacc",
+          "0x11bacc"
+        ],
+        [
+          "0x11baec",
+          "0x11baec"
+        ],
+        [
+          "0x11bb0c",
+          "0x11bb0c"
+        ],
+        [
+          "0x11bb2c",
+          "0x11bb2c"
+        ],
+        [
+          "0x11bb4c",
+          "0x11bb4c"
+        ],
+        [
+          "0x11bb6c",
+          "0x11bb6c"
+        ],
+        [
+          "0x11bb8c",
+          "0x11bb8c"
+        ],
+        [
+          "0x11bbac",
+          "0x11bbac"
+        ],
+        [
+          "0x11bbcc",
+          "0x11bbcc"
+        ],
+        [
+          "0x11bbec",
+          "0x11bbec"
+        ],
+        [
+          "0x11bc0c",
+          "0x11bc0c"
+        ]
+      ]
+    },
+    {
+      "file": "cdi_bumper",
+      "base": "0xE0000",
+      "extra_entries": [],
+      "a5_table": "auto"
+    }
+  ]
+}
